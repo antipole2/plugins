@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> Launcher </name>
+  <version> v1.3.5 </version>
+  <release>  </release>
+  <summary> Launcher plugin for OpenCPN </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Pavel Kalian </author>
+  <source> https://github.com/nohal/launcher_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/launcher.html </info-url>
+
+  <description>   Launcher plugin for OpenCPN
+ </description>
+
+  <target>debian-armhf</target>
+  <target-version>11</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.5-debian-A32-11-tarball/versions/v1.3.5/Launcher-v1.3.5_debian-11-armhf.tar.gz </tarball-url>
+  <tarball-checksum> cf2bd76682cba306165a1a0a341671801c18c52ddd361f6f184665e101bdbf08 </tarball-checksum>
+</plugin>

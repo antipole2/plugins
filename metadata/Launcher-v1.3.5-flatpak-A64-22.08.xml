@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/nohal/launcher_pi/309 -->
+<plugin version="1">
+  <name> Launcher </name>
+  <version> v1.3.5 </version>
+  <release>  </release>
+  <summary> Launcher plugin for OpenCPN </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Pavel Kalian </author>
+  <source> https://github.com/nohal/launcher_pi </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/launcher.html </info-url>
+
+  <description>   Launcher plugin for OpenCPN
+ </description>
+
+  <target>flatpak-aarch64</target>
+  <target-version>22.08</target-version>
+  <target-arch>aarch64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.5-flatpak-A64-22.08-tarball/versions/v1.3.5/Launcher-v1.3.5_flatpak-22.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> 4695c11d540b3fadbd1bd54e15a137e66aa078e2d601d17df49cad395344951d </tarball-checksum>
+</plugin>
