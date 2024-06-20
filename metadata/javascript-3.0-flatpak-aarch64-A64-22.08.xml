@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/antipole2/JavaScript_pi/5956 -->
+<!-- https://circleci.com/gh/antipole2/JavaScript_pi/5975 -->
 <plugin version="1">
   <name> javascript </name>
-  <version> 3.0.6+5956.5174cf9 </version>
+  <version> 3.0.6+5975.6e5944f </version>
   <release> 0 </release>
   <summary> Run JavaScripts in the plugin </summary>
 
@@ -20,6 +20,6 @@ See help menu ? for documentation details
   <target>flatpak-aarch64</target>
   <target-version>22.08</target-version>
   <target-arch>aarch64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-alpha/raw/names/javascript-3.0-flatpak-aarch64-A64-22.08-tarball/versions/3.0.6+5956.5174cf9/javascript-3.0.6+5956.5174cf9_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
-  <tarball-checksum> 664a908c035a789c3a2e16e9741d94afd90dc2ebfc5cbd9c474fc3b67cfc0259 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-alpha/raw/names/javascript-3.0-flatpak-aarch64-A64-22.08-tarball/versions/3.0.6+5975.6e5944f/javascript-3.0.6+5975.6e5944f_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> a203f95c86c02365a96a73a2314e08cb69439b9e5f2a7805be49984f942a5c53 </tarball-checksum>
 </plugin>
