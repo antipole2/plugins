@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/antipole2/JavaScript_pi/5958 -->
+<!-- https://circleci.com/gh/antipole2/JavaScript_pi/5970 -->
 <plugin version="1">
   <name> javascript </name>
-  <version> 3.0.6+5958.5174cf9 </version>
+  <version> 3.0.6+5970.6e5944f </version>
   <release> 0 </release>
   <summary> Run JavaScripts in the plugin </summary>
 
@@ -20,6 +20,6 @@ See help menu ? for documentation details
   <target>debian-wx32-x86_64</target>
   <target-version>11</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-alpha/raw/names/javascript-3.0-debian-wx32-x86_64-11-tarball/versions/3.0.6+5958.5174cf9/javascript-3.0.6+5958.5174cf9_debian-wx32-x86_64-11-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 3a5f4bd4774cb472fc8977bbb458219c461cc09963484067cca1c733cff37019 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-alpha/raw/names/javascript-3.0-debian-wx32-x86_64-11-tarball/versions/3.0.6+5970.6e5944f/javascript-3.0.6+5970.6e5944f_debian-wx32-x86_64-11-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 67931a044382062dafdf4ce212cbec40e81a6bb155a88d56e1174132c8b07c9b </tarball-checksum>
 </plugin>
