@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> javascript </name>
-  <version> 3.0.6+5971.6e5944f </version>
+  <version> 3.0.6+5981.0b6b256 </version>
   <release> 0 </release>
   <summary> Run JavaScripts in the plugin </summary>
 
@@ -20,6 +20,6 @@ See help menu ? for documentation details
   <target>debian-x86_64</target>
   <target-version>12</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-alpha/raw/names/javascript-3.0-debian-x86_64-12-tarball/versions/3.0.6+5971.6e5944f/javascript-3.0.6+5971.6e5944f_debian-x86_64-12-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 721fabf22c7cb5d0946a224d06a8ba80205fe5e50dd66a256cb79b1cee40bb25 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-alpha/raw/names/javascript-3.0-debian-x86_64-12-tarball/versions/3.0.6+5981.0b6b256/javascript-3.0.6+5981.0b6b256_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 4c47ab9c475c8d19a08b91007a925b4e6bc8dbb31a850e15d88946095e97a21d </tarball-checksum>
 </plugin>
