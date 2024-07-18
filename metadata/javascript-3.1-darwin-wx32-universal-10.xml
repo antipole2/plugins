@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/antipole2/JavaScript_pi/6071 -->
+<!-- https://circleci.com/gh/antipole2/JavaScript_pi/6085 -->
 <plugin version="1">
   <name> javascript </name>
-  <version> 3.1.0-alpha+6071.6fa8c98 </version>
+  <version> 3.1.0-alpha+6085.d3b93ef </version>
   <release> 0 </release>
   <summary> Run JavaScripts in the plugin </summary>
 
@@ -20,6 +20,6 @@ See help menu ? for documentation details
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-alpha/raw/names/javascript-3.1-darwin-wx32-universal-10-tarball/versions/3.1.0-alpha+6071.6fa8c98/javascript-3.1.0-alpha+6071.6fa8c98_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> f6c1322f17f3e5a8e2aaf710b0430a61390b9732e07a94ed05518fa316a2da2d </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-alpha/raw/names/javascript-3.1-darwin-wx32-universal-10-tarball/versions/3.1.0-alpha+6085.d3b93ef/javascript-3.1.0-alpha+6085.d3b93ef_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 474494c51e4fe622271ab86f86020cbfed6d3ced85adc9a10f67cbaa6f6bc950 </tarball-checksum>
 </plugin>
