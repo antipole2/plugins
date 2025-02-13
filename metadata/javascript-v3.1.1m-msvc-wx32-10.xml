@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/antipole2/javascript-pi/builds/51512430 -->
+<!-- https://ci.appveyor.com/project/antipole2/javascript-pi/builds/51512431 -->
 <plugin version="1">
   <name> javascript </name>
   <version> v3.1.1m </version>
@@ -21,5 +21,5 @@ See help menu ? for documentation details
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-prod/raw/names/javascript-v3.1.1m-msvc-wx32-10-tarball/versions/v3.1.1m/javascript-v3.1.1m_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> c36a3e76b01c866d174c3fdc1421eec5162379f0bd0390e8786575afc3de8a42 </tarball-checksum>
+  <tarball-checksum> 96e10dec7c5fe2ba902a28e1b493875883cc0395ae06a0a297a7f7cb39b89749 </tarball-checksum>
 </plugin>
