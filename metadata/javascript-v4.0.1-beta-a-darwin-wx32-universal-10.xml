@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/antipole2/JavaScript_pi/7624 -->
+<plugin version="1">
+  <name> javascript </name>
+  <version> v4.0.1-beta-a </version>
+  <release> 0 </release>
+  <summary> Run JavaScripts in the plugin </summary>
+
+  <api-version> 1.21 </api-version>
+  <open-source> yes </open-source>
+  <author> Tony Voss </author>
+  <source> https://github.com/Antipole2/JavaScript_pi </source>
+  <info-url> https://opencpn-manuals.github.io/main/javascript/index.html </info-url>
+
+  <description> This plugin for OpenCPN allows you to run JavaScript and to interact with OpenCPN.
+You can use it to script your own enhancements to standard OpenCPN functionality.
+See help menu ? for documentation details
+ </description>
+
+  <target>darwin-wx32</target>
+  <target-version>10</target-version>
+  <target-arch>arm64;x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-beta/raw/names/javascript-v4.0.1-beta-a-darwin-wx32-universal-10-tarball/versions/v4.0.1-beta-a/javascript-v4.0.1-beta-a_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 3998c53d76719e7c1e2a1c734e9e2567eb3ef1b3eafad7ca904ad348b5eab36f </tarball-checksum>
+</plugin>
