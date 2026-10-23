@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/antipole2/JavaScript_pi/7738 -->
+<plugin version="1">
+  <name> javascript </name>
+  <version> 4.1.0-beta+7738.697cbbd </version>
+  <release> 0 </release>
+  <summary> Run JavaScripts in the plugin </summary>
+
+  <api-version> 1.21 </api-version>
+  <open-source> yes </open-source>
+  <author> Tony Voss </author>
+  <source> https://github.com/Antipole2/JavaScript_pi </source>
+  <info-url> https://opencpn-manuals.github.io/main/javascript/index.html </info-url>
+
+  <description> This plugin for OpenCPN allows you to run JavaScript and to interact with OpenCPN.
+You can use it to script your own enhancements to standard OpenCPN functionality.
+See help menu ? for documentation details
+ </description>
+
+  <target>flatpak-aarch64</target>
+  <target-version>26.08</target-version>
+  <target-arch>aarch64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/javascript-alpha/raw/names/javascript-4.1-flatpak-aarch64-A64-26.08-tarball/versions/4.1.0-beta+7738.697cbbd/javascript-4.1.0-beta+7738.697cbbd_flatpak-aarch64-26.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> 5f6b1cf14881ce30998abcebc8f31a9552a31c9e1954227667043cb5797187cb </tarball-checksum>
+</plugin>
